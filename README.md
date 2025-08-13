@@ -71,12 +71,12 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 ---
 
 ## 🐍 Animated Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Chandan735729/Chandan735729/output/github-contribution-grid-snake-dark.svg)
 
+![Snake animation](https://raw.githubusercontent.com/Chandan735729/Chandan735729/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/chandan-saini-7393a0277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoXkqoyN3Rwy%2F1Z3hYir8cQ%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-saini-7393a0277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoXkqoyN3Rwy%2F1Z3hYir8cQ%3D%3D))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandan735729)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan735729@gmail.com)
 
