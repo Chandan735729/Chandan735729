@@ -72,8 +72,9 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 
 ## 🐍 Animated Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Chandan735729/Chandan735729/output/github-contribution-grid-snake-dark.svg)
----
+<p align="center">
+  <img src="https://github.com/Chandan735729/Chandan735729/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-saini-7393a0277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoXkqoyN3Rwy%2F1Z3hYir8cQ%3D%3D))
