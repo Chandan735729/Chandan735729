@@ -1,8 +1,8 @@
 <!-- Banner -->
-![Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Chandan+Saini's+Profile)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:6a11cb&height=250&section=header&text=Hey!%20I'm%20Chandan%20Saini&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F76C6C&width=800&lines=Hey!+I'm+Chandan+Saini;B.Tech+in+Data+Science;Machine+Learning+%7C+DBMS+%7C+Full+Stack+Dev;Always+Learning+and+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6C6C&width=800&lines=B.Tech+Data+Science+Student;Machine+Learning+%7C+DBMS+%7C+Full+Stack+Dev;Always+Learning+and+Building)](https://git.io/typing-svg)
 
 ---
 
@@ -13,15 +13,15 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 - 📊 Love working on **ML Models, AI Projects, and DBMS optimization**  
 - 🌱 Currently learning **Data Structures & Algorithms** for competitive coding  
 - 📌 Working on **Smart Irrigation 2.0** & **Educational Platforms**  
-- 🎯 Preparing for **GATE 2026** with the aim of building a **high-impact tech career**  
+- 🎯 Preparing for **GATE 2026** aiming for a **high-impact tech career**  
 
 ---
 
 ## 🎯 Goals for 2025
-- Contribute to **open-source ML projects**  
-- Publish **AI research papers**  
-- Build **scalable educational and agriculture-based applications**  
-- Master **Cloud & DevOps tools**  
+✔ Contribute to open-source ML projects  
+✔ Publish AI research papers  
+✔ Build scalable educational & agriculture-based applications  
+✔ Master Cloud & DevOps tools  
 
 ---
 
@@ -64,21 +64,21 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 ---
 
 ## 📊 GitHub Stats & Activity
-![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)
+![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandan735729&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan735729&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chandan735729&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🐍 3D Contribution Snake
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Animated Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Chandan735729/Chandan735729/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/chandan-saini-7393a0277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoXkqoyN3Rwy%2F1Z3hYir8cQ%3D%3D))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandan735729)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan735729@gmail.com)
 
 ---
 ⭐ *“Always learning, always building — Chandan Saini”*
