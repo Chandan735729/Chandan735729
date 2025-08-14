@@ -42,17 +42,11 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ### 🖌 Development & UI
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-00C853?style=for-the-badge&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/-Pillow-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔐 Security & Cryptography
-![PyCryptodome](https://img.shields.io/badge/-PyCryptodome-6A1B9A?style=for-the-badge&logo=python&logoColor=white)
-![Fernet](https://img.shields.io/badge/-Fernet-2E7D32?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
