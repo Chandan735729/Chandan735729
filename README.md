@@ -64,9 +64,7 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 
 ---
 
-## 🐍 Animated Contribution Snake
 
-![Snake animation](https://github.com/Chandan735729/Chandan735729/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Connect With Me
