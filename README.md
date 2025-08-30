@@ -12,8 +12,7 @@ I'm **Chandan Saini**, a **B.Tech Data Science (5th Semester)** student passiona
 - 🚀 Skilled in **Python, C, C++, Java, SQL, Flutter, HTML/CSS/JS**  
 - 📊 Love working on **ML Models, AI Projects, and DBMS optimization**  
 - 🌱 Currently learning **Data Structures & Algorithms** for competitive coding  
-- 📌 Working on **Smart Irrigation 2.0** & **Educational Platforms**  
-- 🎯 Preparing for **GATE 2026** aiming for a **high-impact tech career**  
+- 📌 Working on **Smart Irrigation 2.0** & **Educational Platforms** 
 
 ---
 
