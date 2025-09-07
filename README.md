@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0046,100:6a00c7&height=250&section=header&text=CHANDAN SAINI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Animated Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0046,100:6a00c7&height=250&section=header&text=CHANDAN_SAINI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Animated Header">
 
   <br>
 
